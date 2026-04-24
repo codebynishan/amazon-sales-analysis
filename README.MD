@@ -1,6 +1,6 @@
 # Amazon Sales Performance Analysis
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 > End-to-end data analysis of 120,350+ Amazon orders using Python, SQL, and Tableau.  
 > Built to answer real business questions from Sales.
